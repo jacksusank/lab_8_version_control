@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 final version we agree on
-=======
 added by Jack Susank on 4/12/24 at 2:33
 added by Jack Susank on 4/12/24 at 2:35
->>>>>>> 656687df94b62855c9dbdd2e5be7ba38f30036bf
+
