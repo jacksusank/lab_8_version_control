@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 created by Deniz on April 12th at 2:26 pm
-=======
 created by JACK_SUSANK on APRIL_12_2024 at 2:30
->>>>>>> 656687df94b62855c9dbdd2e5be7ba38f30036bf
